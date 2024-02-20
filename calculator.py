@@ -8,5 +8,5 @@ def subtract(a,b);
 def multiply(a,b);
 	return a*b;
 
-def divided_free(a,b);
+def divided_freedom(a,b);
 	return a/b;
