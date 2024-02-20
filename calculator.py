@@ -6,7 +6,7 @@ def subtract(a,b);
 	return a-b
 
 def multiply(a,b);
-	return a*b;
+	return ab;
 
-def divide_new(a,b);
+def divided_premium(a,b);
 	return a/b;
