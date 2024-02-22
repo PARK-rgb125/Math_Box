@@ -10,3 +10,6 @@ def multiply(a,b);
 
 def divided_premium(a,b);
 	return a/b;
+
+def say_hello():
+	print("hello")
